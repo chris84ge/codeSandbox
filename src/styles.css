@@ -4,6 +4,11 @@
 }
 
 #row1 {
-  height: 200px;
+  height: 100px;
+  width: 100%;
+}
+
+#row2 {
+  height: 100px;
   width: 100%;
 }
